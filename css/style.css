@@ -39,12 +39,15 @@ body {
 }
 
 .hello {
+  display: flex;
+  justify-content: center;
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
 }
 
 .hello-text {
+  text-align: center;
   font-weight: 400;
   font-size: 16px;
   line-height: 18px;
